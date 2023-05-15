@@ -1,10 +1,5 @@
 const sumAll = function(a, b) {
 
-    // 1 loop pentru cazul in care a < b (i++ de la a la b)
-    // another loop pentru cazul in care b < a (i-- de la b la a)
-    // ERROR pentru NON-NUMBERS;
-    // ERROR pentru NEGATIE NUMBERS;
-
     let sum1 = 0;
 
     let sum2 = 0;
